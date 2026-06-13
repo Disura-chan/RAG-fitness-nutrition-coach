@@ -24,3 +24,4 @@ pymupdf
 plotly
 
 ollama
+google-genai
